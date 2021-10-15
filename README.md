@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gusakpan
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning HTML, CSS & JavaScript
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hi, I’m Gus
+- 👀 I’m interested in web design & web development
+- 🌱 I’m currently learning responsive web design, JavaScript and front-end libraries
+- 💞️ I’m looking to collaborate on projects and increase my understanding of diverse perspectives
 - 📫 How to reach me: My Twitter is @gusakpan
 
 <!---
